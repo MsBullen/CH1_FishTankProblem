@@ -1,4 +1,5 @@
-# CH1_FishTankProblem
+# Input, Output and Assignment Challenge: CH1_FishTankProblem
+Challenge Explanation:
 Write a program that will calculate and output the volume of a fish tank. 
 The program will need to:
 Get input of the length, depth and height and store in suitable variables.
